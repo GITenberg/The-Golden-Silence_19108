@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19108#The-Golden-Silence
 gutenberg_issued: '2006-08-23'
 gutenberg_type: Text
 identifiers:
